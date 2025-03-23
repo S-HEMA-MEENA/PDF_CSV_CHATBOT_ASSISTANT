@@ -1,0 +1,6 @@
+fitz
+pymupdf
+pdfplumber
+python-docx
+pandas
+PIL
